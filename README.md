@@ -20,9 +20,12 @@ In the project has a jupyter notebook spam_classification.ipynb which is used fo
 ![Using_SVM_Classifier](https://user-images.githubusercontent.com/59818604/132064786-1d24b0eb-5c3a-43d0-8dd2-7e307723f2b2.png)
 
 # Results
-The results of the CountVectorizer data:
+## The results of the CountVectorizer data:
+
 A.Using Naive bayes classifier Model>>>>>>>>>>>>>>>>Accuracy:98.5
+
 B.Using Decision Tree Classifier(Entropy)>>>>>>>>>>>>>>>>Accuracy:98.1
+
 C.Using SVM with linear Model>>>>>>>>>>>>>>>>Accuracy:98.5
 # Reference
 https://github.com/krishnaik06/SpamClassifier
