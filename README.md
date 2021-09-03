@@ -1,7 +1,8 @@
 # Spam or Ham Message Classification
 The purpose of this project is to understand how we can use machine learning algorithm to build SMS spam detection model. Particularly, we will build a binary classification model to detect whether a text message is spam or not. A lot of times they ask us to fill in forms and ask our personal information or Account number details which is really fishy or bound to be a fraud. The goal of this project is to use Data Science to accurately classify whether a message is spam or not.
-![image](https://user-images.githubusercontent.com/59818604/132068361-2a5fda17-77d4-417e-9102-dbb963a42cd1.png)
 
+
+![image](https://user-images.githubusercontent.com/59818604/132068361-2a5fda17-77d4-417e-9102-dbb963a42cd1.png)
 # Data
 The dataset we used to build our model is from the UIC repostiory. The link to the dataset is https://archive.ics.uci.edu/ml/datasets/sms+spam+collection. The dataset has 2 columns, the text messages and the label. The dataset contains 5572 text messages which are appropriately labelled ham and spam. The dataset is imbalanced in nature with 4825 instances of ham class and 747 instances of spam class.
 # Data cleaning and preprocessing
