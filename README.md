@@ -12,6 +12,12 @@ E.Then, implemented CountVectorizer for the data modeling process.
 # Execution of the process
 In the project has a jupyter notebook spam_classification.ipynb which is used for the implementation of this project.
 # Screenshort of Confusion matricx of different classifire model
+## A.Decision Tree Classifier
+![Using_DecisionTreeClassifier](https://user-images.githubusercontent.com/59818604/132064774-63e05355-9bc8-4edc-9a83-fd93254ac768.png)
+## B.Naive Bayes Classifier
+![Using_NaiveBayesClassifier](https://user-images.githubusercontent.com/59818604/132064780-0149a202-a27e-46bb-9364-d8a7ec1733ed.png)
+## C.SVM_Classifier
+![Using_SVM_Classifier](https://user-images.githubusercontent.com/59818604/132064786-1d24b0eb-5c3a-43d0-8dd2-7e307723f2b2.png)
 
 # Results
 The results of the CountVectorizer data:
